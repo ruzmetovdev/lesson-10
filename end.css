@@ -1,0 +1,125 @@
+@import "./header.css";
+@import "./common.css";
+
+main {
+  background-color: #f4f8fa;
+}
+
+.ctnr {
+  width: 496px;
+  margin: 0 auto;
+  padding: 24px 20px;
+}
+
+fieldset {
+  border: 2px solid #ffffff;
+  text-align: center;
+  padding: 40px;
+  background: #ffffff;
+  box-shadow: 0px 12px 16px rgba(0, 0, 0, 0.04),
+    0px 4px 56px rgba(0, 0, 0, 0.04);
+  border-radius: 10px;
+}
+
+.boosh h1 {
+  margin-top: 24px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 39px;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.ps1 {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.ps1 p {
+  font-family: "?????";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444150;
+}
+
+.ps1 a {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  color: #01bab3;
+}
+/* eeennn */
+.bir input {
+  padding: 12px 5px;
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+.bir label {
+  margin-top: 49px;
+  display: flex;
+}
+
+input {
+  margin-top: 7px;
+  outline: none;
+}
+/* nnnnn */
+
+.koz2 input {
+  padding: 12px 5px;
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+.koz2 label {
+  margin-top: 30px;
+  display: flex;
+}
+
+.koz2 i {
+  position: relative;
+  top: -30px;
+  left: 160px;
+}
+/* nnnnnn */
+
+.but2 button {
+  width: 100%;
+  padding: 13px 0px;
+  border: 2px solid #01bab3;
+  background: #01bab3;
+  border-radius: 4px;
+}
+.but2 {
+  margin-top: 47px;
+  margin-bottom: 21px;
+}
+.but2 button a {
+  text-decoration: none;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+/* nnnnnnn */
+
+.fot p {
+  margin-top: 36px;
+  margin-bottom: 200px;
+  font-family: "?????";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.65);
+}

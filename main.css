@@ -1,0 +1,170 @@
+@import "./header.css";
+@import "./common.css";
+
+main {
+  background: #f4f8fa;
+  width: 100%;
+}
+
+.cntr {
+  width: 496px;
+  margin: 0 auto;
+  padding: 24px 20px;
+}
+
+fieldset {
+  text-align: center;
+  padding: 40px;
+  background: #ffffff;
+  box-shadow: 0px 12px 16px rgba(0, 0, 0, 0.04),
+    0px 4px 56px rgba(0, 0, 0, 0.04);
+  border-radius: 10px;
+}
+
+.bosh h1 {
+  margin-top: 24px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 39px;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.ps {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.ps p {
+  font-family: "?????";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444150;
+}
+
+.ps a {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  color: #01bab3;
+}
+
+/* vvv */
+
+.nxt {
+  padding-top: 56px;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+.nxt label {
+  display: flex;
+}
+
+input {
+  margin-top: 8px;
+  padding: 10px 5px;
+  background: #fbfbfb;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+
+input:focus {
+  outline: none;
+}
+
+.nxt2 {
+  padding-top: 24px;
+}
+
+.nxt2 input {
+  width: 100%;
+}
+.nxt2 label {
+  display: flex;
+}
+/* ...... */
+
+.nxt3 {
+  margin-top: 24px;
+  display: flex;
+  gap: 25px;
+}
+
+.nxt3 .pass {
+  margin-top: 18.5px;
+}
+
+.nxt3 label {
+  display: flex;
+}
+
+.nt {
+  position: relative;
+  top: -35px;
+  left: -140px;
+}
+
+.nt input {
+  margin-right: 15px;
+}
+
+.tn {
+  position: relative;
+  top:-58px;
+  left:55px;
+}
+.tn input {
+  margin-right: 16px;
+}
+/* next */
+
+.skp input {
+  width: 100%;
+}
+
+.skp label {
+  margin-top:-22px;
+  display: flex;
+}
+
+.skp2 input {
+  width: 100%;
+}
+
+.skp2 label {
+  margin-top: 24px;
+  display: flex;
+}
+.but button {
+  width: 100%;
+  padding: 10px 0px;
+  border: 2px solid #01bab3;
+  background: #01bab3;
+  border-radius: 4px;
+}
+.but {
+  margin-top: 24px;
+}
+.but button a {
+  font-size: 15px;
+  color: #ffffff;
+}
+
+.foo p {
+  margin: 64px 0px 25px 0px;
+  font-family: "?????";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.65);
+}

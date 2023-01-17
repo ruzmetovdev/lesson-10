@@ -1,0 +1,238 @@
+@import "./header.css";
+@import "./common.css";
+
+.cntr2 {
+  width: 496px;
+  margin: 0 auto;
+  padding: 24px 20px;
+}
+
+fieldset {
+  border: 2px solid #ffffff;
+  text-align: center;
+  padding: 40px;
+  background: #ffffff;
+}
+
+.boosh h1 {
+  margin-top: 24px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 29px;
+  line-height: 39px;
+  color: rgba(0, 0, 0, 0.85);
+}
+
+.ps1 {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.ps1 p {
+  font-family: "?????";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #444150;
+}
+
+.ps1 a {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 26px;
+  color: #01bab3;
+}
+
+/* mmm  */
+
+.em input {
+  padding: 12px 5px;
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+
+.em label {
+  margin-bottom: 9px;
+  margin-top: 40px;
+  display: flex;
+}
+
+input:focus {
+  outline: none;
+}
+
+.ph {
+  display: flex;
+}
+
+.ph input {
+  padding: 12px 5px;
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 0px 6px 6px 0px;
+}
+
+.ph button {
+  padding: 0px 10px;
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px 0px 0px 6px;
+  color: #444150;
+}
+.aj label {
+  margin-bottom: 9px;
+  margin-top: 23px;
+  display: flex;
+}
+/* nnnn */
+.reg {
+  gap: 16px;
+  display: flex;
+}
+.reg input {
+  width: 50%;
+  padding: 12px 5px;
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+
+select {
+  width: 50%;
+  padding: 12px 10px 12px 10px;
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+
+select {
+  outline: none;
+}
+
+.leb {
+  margin-top: 33px;
+  margin-bottom: 9px;
+  display: flex;
+}
+
+.leb2 {
+  margin-left: 133px;
+}
+/* nnnnnn */
+.koz input {
+  padding: 12px 5px;
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+input:focus {
+border: 2PX solid #01bab3;
+}
+
+.koz i {
+  position: relative;
+  top: -30px;
+  left: 165px;
+}
+
+.koz label {
+  margin-bottom: 9px;
+  margin-top: 33px;
+  display: flex;
+}
+
+/* nnnnn */
+.con label {
+  margin-bottom: 9px;
+  margin-top: 20px;
+  display: flex;
+}
+
+.con input {
+  padding: 12px 5px;
+  width: 100%;
+  background: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+.con input[type="text"]:focus {
+  border: 2px solid red;
+}
+
+/* nnnnn */
+
+.bb button {
+  margin-top: 70px;
+  padding: 15px 5px;
+  width: 100%;
+  background: #01bab3;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+
+.bb a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* nnnn */
+.foot {
+  margin: 23px 0px 0px 20px;
+  display: flex;
+  gap: 5px;
+}
+
+.foot .on {
+  font-family: "?????";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  text-align: center;
+  color: #778699;
+}
+
+.foot .of {
+  font-family: "?????";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  text-align: center;
+  color: #01bab3;
+}
+
+.foot2 {
+  display: flex;
+  gap: 5px;
+}
+.foot2 .on2 {
+  margin: 0px 0px 0px 135px;
+  font-family: "?????";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  text-align: center;
+  color: #778699;
+}
+
+.foot2 .of2 {
+  font-family: "?????";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  text-align: center;
+  color: #01bab3;
+}
